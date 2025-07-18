@@ -1,0 +1,22 @@
+body {
+    background-image: url('Images/billy-huynh-W8KTS-mhFUE-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.navbar {
+    background-color: rgb(98, 46, 85);
+
+}
+
+.navbar a {
+    color: white;
+}
+
+.card {
+
+    background: transparent;
+    backdrop-filter: blur(8px);
+}
