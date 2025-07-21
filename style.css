@@ -22,7 +22,3 @@ body {
 input[type="checkbox"] {
   transform: scale(1.2);
 }
-#stickyfooter{
-    margin: 100px;
-    height: 30px;
-}
